@@ -187,10 +187,12 @@ payload:
   - DOMAIN,tracker.pterclub.net
   - DOMAIN,tracker.ptvicomo.net
   - DOMAIN,tracker.sjtu.edu.cn
+  #  不通，但禁止盒子
   - DOMAIN,tracker.totheglory.im
   - DOMAIN,tracker.trackerfile.com
   - DOMAIN,tracker.wintersakura.net
   - DOMAIN,tracker.zhuque.in
+  # 暂时走代理
   #- DOMAIN,reactor.filelist.io
   #- DOMAIN,reactor.thefl.org
 

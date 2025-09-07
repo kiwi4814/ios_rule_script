@@ -196,7 +196,7 @@ payload:
   - DOMAIN,tracker.pterclub.net
   - DOMAIN,tracker.ptvicomo.net
   - DOMAIN,tracker.sjtu.edu.cn
-#  - DOMAIN,tracker.totheglory.im
+  - DOMAIN,tracker.totheglory.im
   - DOMAIN,tracker.trackerfile.com
   - DOMAIN,tracker.wintersakura.net
   - DOMAIN,tracker.zhuque.in

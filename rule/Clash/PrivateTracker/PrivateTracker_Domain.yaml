@@ -186,7 +186,7 @@ payload:
   - DOMAIN,tracker.hhan.club
   - DOMAIN,tracker.hhanclub.top
   - DOMAIN,tracker.hitpt.com
-  - DOMAIN,tracker.keepfrds.com
+#  - DOMAIN,tracker.keepfrds.com
   - DOMAIN,tracker.leaves.red
   - DOMAIN,tracker2.leaves.red
   - DOMAIN,tracker3.leaves.red
@@ -196,7 +196,7 @@ payload:
   - DOMAIN,tracker.pterclub.net
   - DOMAIN,tracker.ptvicomo.net
   - DOMAIN,tracker.sjtu.edu.cn
-  - DOMAIN,tracker.totheglory.im
+#  - DOMAIN,tracker.totheglory.im
   - DOMAIN,tracker.trackerfile.com
   - DOMAIN,tracker.wintersakura.net
   - DOMAIN,tracker.zhuque.in
@@ -205,6 +205,7 @@ payload:
 
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hdkylin.top
+  - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,oshen.win
   - DOMAIN-SUFFIX,ptlover.cc
   - DOMAIN-SUFFIX,zmpt.cc
@@ -220,10 +221,10 @@ payload:
  # - DOMAIN-SUFFIX,iptorrents.com
 
   # DOMAIN-KEYWORD
-#  - DOMAIN-KEYWORD,announce
-  - DOMAIN-KEYWORD,chdbits
-  - DOMAIN-KEYWORD,m-team
-#  - DOMAIN-KEYWORD,torrent
+  # - DOMAIN-KEYWORD,announce
+  # - DOMAIN-KEYWORD,chdbits
+  # - DOMAIN-KEYWORD,m-team
+  # - DOMAIN-KEYWORD,torrent
 
   # IP-CIDR
   - IP-CIDR,207.241.226.111/32

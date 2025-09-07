@@ -191,8 +191,8 @@ payload:
   - DOMAIN,tracker.trackerfile.com
   - DOMAIN,tracker.wintersakura.net
   - DOMAIN,tracker.zhuque.in
-  - DOMAIN,reactor.filelist.io
-  - DOMAIN,reactor.thefl.org
+  #- DOMAIN,reactor.filelist.io
+  #- DOMAIN,reactor.thefl.org
 
   # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,hdkylin.top

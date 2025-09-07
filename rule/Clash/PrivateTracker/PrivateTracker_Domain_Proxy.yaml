@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,tracker.keepfrds.com
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,carpt.net
   # 这俩暂时走代理，直连不通
